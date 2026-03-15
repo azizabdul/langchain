@@ -1,0 +1,2 @@
+PS C:\Users\abdul\Downloads\Langchain\LocalVoiceAgent> $env:KMP_DUPLICATE_LIB_OK = "TRUE";                          
+PS C:\Users\abdul\Downloads\Langchain\LocalVoiceAgent>  streamlit run LocalVoiceAgent/local_voice_agent.py    
